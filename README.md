@@ -11,4 +11,6 @@
 1.  Python-разработка для
 начинающих. [Свидетельство](https://github.com/sanych79/mysertificate/blob/main/certificate_python.pdf)
 2. SQL и получение данных [Сертификат](https://github.com/sanych79/mysertificate/blob/main/certificate_sql.pdf)
+   1. Итоговая работа по блоку SQL и получение данных
+   2. Итоговая работа по блоку продвинутый SQL
 3. Git - система контроля версий [Свидетельство](https://github.com/sanych79/mysertificate/blob/main/certificate_git.pdf)
