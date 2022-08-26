@@ -10,7 +10,7 @@
 Прошел следующие блоки:
 1.  Python-разработка для
 начинающих. [Свидетельство](https://github.com/sanych79/mysertificate/blob/main/certificate_python.pdf)
-2. SQL и получение данных [Сертификат](https://github.com/sanych79/mysertificate/blob/main/certificate_sql.pdf)
-   1. Итоговая работа по блоку SQL и получение данных
-   2. Итоговая работа по блоку продвинутый SQL
+2. SQL [Сертификат](https://github.com/sanych79/mysertificate/blob/main/certificate_sql.pdf)
+   1. Итоговая работа по блоку SQL и получение данных [ссылка](https://github.com/sanych79/aboutme/tree/main/SQL/final_work_sql)
+   2. Итоговая работа по блоку продвинутый SQL [ссылка](https://github.com/sanych79/aboutme/tree/main/SQL/final_wirk_sql_pro)
 3. Git - система контроля версий [Свидетельство](https://github.com/sanych79/mysertificate/blob/main/certificate_git.pdf)
