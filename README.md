@@ -21,7 +21,7 @@
 5. Базы данных для Python разработчиков [Свидетельство](https://github.com/sanych79/mysertificate/blob/main/python_sql.pdf)
    1. Задание 5 (Работа с PostgreSQL из Python)
       1. [Задание](https://github.com/netology-code/py-homeworks-db/tree/video/05-psycopg)
-      2. [Решение](https://github.com/sanych79/PY_SQL_HW4/
+      2. [Решение](https://github.com/sanych79/PY_SQL_HW4/)
    2. Задание 6 (Python и БД. ORM)
       1. [Задание](https://github.com/netology-code/py-homeworks-db/tree/video/06-orm)
       2. [Решение](https://github.com/sanych79/PY_SQL_6/)
