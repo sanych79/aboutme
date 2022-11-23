@@ -25,3 +25,4 @@
    2. Задание 6 (Python и БД. ORM)
       1. [Задание](https://github.com/netology-code/py-homeworks-db/tree/video/06-orm)
       2. [Решение](https://github.com/sanych79/PY_SQL_6/)
+6. Администрирование Linux [Свидетельство] (https://github.com/sanych79/mysertificate/blob/main/linux.pdf)
